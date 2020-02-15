@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Toan Nguyen</title>
+    <link>http://toannguyen.me/publication_types/2/</link>
+    <description>Recent content in 2 on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kid on The Phone! Toward Automatic Detection of Children on Mobile Devices</title>
+      <link>http://toannguyen.me/publication/kidonthephone/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/kidonthephone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tap-based User Authentication for Smartwatches</title>
+      <link>http://toannguyen.me/publication/tapmein/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/tapmein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IllusionPIN: Shoulder-Surfing Resistant Authentication Using Hybrid Images</title>
+      <link>http://toannguyen.me/publication/illusionpin/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/illusionpin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draw-A-PIN: Authentication using finger-drawn PIN on touch devices</title>
+      <link>http://toannguyen.me/publication/drawapin/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/drawapin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication</title>
+      <link>http://toannguyen.me/publication/mindyoursmses/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/mindyoursmses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Access Control based on BioPKI system and Application for C@FRIS (in Vietnamese)</title>
+      <link>http://toannguyen.me/publication/cafris/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/cafris/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usability on Toan Nguyen</title>
+    <link>http://toannguyen.me/tags/usability/</link>
+    <description>Recent content in Usability on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authentication for wearable devices</title>
+      <link>http://toannguyen.me/project/wearables-authentication/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/wearables-authentication/</guid>
+      <description>Developed and evaluated numerous authentication methods for wearables like smartwatches. Explored their security and usability through comprehensive user studies.</description>
+    </item>
+    
+  </channel>
+</rss>

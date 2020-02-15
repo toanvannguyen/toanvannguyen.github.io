@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biometrics on Toan Nguyen</title>
+    <link>http://toannguyen.me/tags/biometrics/</link>
+    <description>Recent content in Biometrics on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/tags/biometrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finger-drawn PIN Authentication</title>
+      <link>http://toannguyen.me/project/draw-a-pin/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/draw-a-pin/</guid>
+      <description>Draw-A-PIN, a new authentication mechanism for mobile devices which allow users to their PIN on a touch screen instead of typing it. Our method offers better security by utilizing drawing traits or behavioral biometrics as an additional authentication factor beyond just the secrecy of the PIN. In addition, Draw-A-PIN inherently provides acceptability and usability by leveraging user familiarity with PINs.</description>
+    </item>
+    
+    <item>
+      <title>Verification Code Phishing Attack</title>
+      <link>http://toannguyen.me/project/vcfa/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/vcfa/</guid>
+      <description>We investigated a phishing attack in which attackers bypass 2-factor authentication by luring users to forward verification codes delivered via SMS messages to them. We found an attack that can lure &lt;strong&gt;50%&lt;/strong&gt; of the users to give up their verification codes. We found that our robust messaging approach reduces the success of the most effective social engineering attack to &lt;strong&gt;8%&lt;/strong&gt;, or a sixth of its success against Google&amp;rsquo;s standard second-factor verification code messages.</description>
+    </item>
+    
+  </channel>
+</rss>

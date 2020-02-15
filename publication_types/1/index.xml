@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Toan Nguyen</title>
+    <link>http://toannguyen.me/publication_types/1/</link>
+    <description>Recent content in 1 on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Deep Learning Model with Hierarchical LSTMs and Supervised Attention for Anti-Phishing</title>
+      <link>http://toannguyen.me/publication/iwspa-ap/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/iwspa-ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartwatches Locking Methods: A Comparative Study</title>
+      <link>http://toannguyen.me/publication/way2017/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/way2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-Platform Phishing: Abusing Trust for Targeted Attacks</title>
+      <link>http://toannguyen.me/publication/x-platform-phishing/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/x-platform-phishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification Code Forwarding Attack</title>
+      <link>http://toannguyen.me/publication/vcfa/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/vcfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finger-drawn PIN Authentication on Touch Devices</title>
+      <link>http://toannguyen.me/publication/fingerdrawpin/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/fingerdrawpin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BioPKI model and Remote Access Control using Bio-Etoken in BioPKI System</title>
+      <link>http://toannguyen.me/publication/biopki/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/biopki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BioPKI security solution and Application for C@FRIS (in Vietnamese)</title>
+      <link>http://toannguyen.me/publication/biopki_fair2010/</link>
+      <pubDate>Thu, 04 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/biopki_fair2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

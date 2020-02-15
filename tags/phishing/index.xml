@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phishing on Toan Nguyen</title>
+    <link>http://toannguyen.me/tags/phishing/</link>
+    <description>Recent content in Phishing on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/tags/phishing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cross-platform Phishing</title>
+      <link>http://toannguyen.me/project/cross-platform-phishing/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/cross-platform-phishing/</guid>
+      <description>Explored a new and highly deceptive phishing attack that first exploits the trust between difference platforms/services to bypass spam filtering and second, leverages the trust between users and the services they used to phish them. For example, a Github user receives an email sent by Github notifying about a pull request on a project of the user&amp;rsquo;s interest will likely to click on a link embedded in the email. This email not only can be triggered by any malicious adversary but it can also be customized to embed phishing links or even innerHTML. Our pilot study, which showed 100% delivery rate and 100% click-through rate.</description>
+    </item>
+    
+  </channel>
+</rss>

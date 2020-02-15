@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Toan Nguyen</title>
+    <link>http://toannguyen.me/home/</link>
+    <description>Recent content in Homes on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://toannguyen.me/home/about/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/home/about/</guid>
+      <description>About me I&amp;rsquo;m a researcher, an engineer, and a football player.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://toannguyen.me/home/projects/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://toannguyen.me/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>http://toannguyen.me/home/datasets/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/home/datasets/</guid>
+      <description>Datasets I&amp;rsquo;ll try to release all data of my research. Please reach out to me if you&amp;rsquo;re interested in any data set from my publications.
+
+Finger-drawn PIN Authentication (Draw-A-PIN) dataset  This is the data set collected and used in the Draw-A-PIN paper. Download link: https://github.com/toanvannguyen/DrawAPIN_dataset 
+&amp;ldquo;Kid on The Phone&amp;rdquo; dataset  This is the data set collected and used in the &amp;ldquo;Kid on The Phone&amp;rdquo; paper. Download link: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>http://toannguyen.me/home/media/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/home/media/</guid>
+      <description>Some media cover of my works 
+Wearables Authentication  Security smarts for smartwatches, The Federal Trade Commission (FTC) 
+
+IllusionPIN Tricking the eye to defeat shoulder-surfing attacks, NYU Press Release The optical illusion that could protect your passcodes: Researchers reveal keypad that looks different if someone looks over your shoulder, Daily Mail The 5 Coolest Things On Earth This Week - GE Reports - GE.com This smartphone optical illusion could stop thieves from stealing your PIN or passcode, IBTimes Clever illusion helps protect your PIN from &amp;lsquo;shoulder surfers&amp;rsquo;, Digital Trends NYU Tandon&amp;rsquo;s IllusionPIN Combats Shoulder-Surfing, Washington Square News More&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://toannguyen.me/home/contact/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

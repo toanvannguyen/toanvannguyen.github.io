@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Toan Nguyen</title>
+    <link>http://toannguyen.me/tags/</link>
+    <description>Recent content in Tags on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authentication</title>
+      <link>http://toannguyen.me/tags/authentication/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Images</title>
+      <link>http://toannguyen.me/tags/hybrid-images/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/hybrid-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIN Authentication</title>
+      <link>http://toannguyen.me/tags/pin-authentication/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/pin-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://toannguyen.me/tags/security/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoulder Surfing</title>
+      <link>http://toannguyen.me/tags/shoulder-surfing/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/shoulder-surfing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usability</title>
+      <link>http://toannguyen.me/tags/usability/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/usability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearables</title>
+      <link>http://toannguyen.me/tags/wearables/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/wearables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biometrics</title>
+      <link>http://toannguyen.me/tags/biometrics/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/biometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI</title>
+      <link>http://toannguyen.me/tags/hci/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phishing</title>
+      <link>http://toannguyen.me/tags/phishing/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/phishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>http://toannguyen.me/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+  </channel>
+</rss>

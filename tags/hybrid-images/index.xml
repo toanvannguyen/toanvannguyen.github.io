@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hybrid Images on Toan Nguyen</title>
+    <link>http://toannguyen.me/tags/hybrid-images/</link>
+    <description>Recent content in Hybrid Images on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/tags/hybrid-images/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IllusionPIN: Shoulder-Surfing Resistant Authentication Using Hybrid Images</title>
+      <link>http://toannguyen.me/project/illusionpin/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/illusionpin/</guid>
+      <description>IllusionPIN is a new PIN-based authentication method that is resilient against shoulder-surfing and surveillance video threats. IllusionPIN deploys a hybrid-image keyboard that appears one way to the close-up user and differently to an observer at a distance of three feet or greater.</description>
+    </item>
+    
+  </channel>
+</rss>

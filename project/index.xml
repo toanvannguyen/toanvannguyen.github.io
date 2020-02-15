@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Toan Nguyen</title>
+    <link>http://toannguyen.me/project/</link>
+    <description>Recent content in Projects on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authentication for wearable devices</title>
+      <link>http://toannguyen.me/project/wearables-authentication/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/wearables-authentication/</guid>
+      <description>Developed and evaluated numerous authentication methods for wearables like smartwatches. Explored their security and usability through comprehensive user studies.</description>
+    </item>
+    
+    <item>
+      <title>IllusionPIN: Shoulder-Surfing Resistant Authentication Using Hybrid Images</title>
+      <link>http://toannguyen.me/project/illusionpin/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/illusionpin/</guid>
+      <description>IllusionPIN is a new PIN-based authentication method that is resilient against shoulder-surfing and surveillance video threats. IllusionPIN deploys a hybrid-image keyboard that appears one way to the close-up user and differently to an observer at a distance of three feet or greater.</description>
+    </item>
+    
+    <item>
+      <title>Cross-platform Phishing</title>
+      <link>http://toannguyen.me/project/cross-platform-phishing/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/cross-platform-phishing/</guid>
+      <description>Explored a new and highly deceptive phishing attack that first exploits the trust between difference platforms/services to bypass spam filtering and second, leverages the trust between users and the services they used to phish them. For example, a Github user receives an email sent by Github notifying about a pull request on a project of the user&amp;rsquo;s interest will likely to click on a link embedded in the email. This email not only can be triggered by any malicious adversary but it can also be customized to embed phishing links or even innerHTML. Our pilot study, which showed 100% delivery rate and 100% click-through rate.</description>
+    </item>
+    
+    <item>
+      <title>Finger-drawn PIN Authentication</title>
+      <link>http://toannguyen.me/project/draw-a-pin/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/draw-a-pin/</guid>
+      <description>Draw-A-PIN, a new authentication mechanism for mobile devices which allow users to their PIN on a touch screen instead of typing it. Our method offers better security by utilizing drawing traits or behavioral biometrics as an additional authentication factor beyond just the secrecy of the PIN. In addition, Draw-A-PIN inherently provides acceptability and usability by leveraging user familiarity with PINs.</description>
+    </item>
+    
+    <item>
+      <title>Verification Code Phishing Attack</title>
+      <link>http://toannguyen.me/project/vcfa/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/project/vcfa/</guid>
+      <description>We investigated a phishing attack in which attackers bypass 2-factor authentication by luring users to forward verification codes delivered via SMS messages to them. We found an attack that can lure &lt;strong&gt;50%&lt;/strong&gt; of the users to give up their verification codes. We found that our robust messaging approach reduces the success of the most effective social engineering attack to &lt;strong&gt;8%&lt;/strong&gt;, or a sixth of its success against Google&amp;rsquo;s standard second-factor verification code messages.</description>
+    </item>
+    
+  </channel>
+</rss>
