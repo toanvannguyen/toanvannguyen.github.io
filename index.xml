@@ -5,9 +5,18 @@
     <description>Recent content in Toan Nguyen on Toan Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Toan Nguyen</copyright>
-    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021 Toan Nguyen</copyright>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication</title>
+      <link>http://toannguyen.me/publication/mindyoursmses_bookchapter/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/mindyoursmses_bookchapter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kid on The Phone! Toward Automatic Detection of Children on Mobile Devices</title>
@@ -102,7 +111,7 @@
         &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://arxiv.org/pdf/1708.06508.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.mecite/illusionpin.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/illusionpin.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
@@ -192,22 +201,32 @@
 
 &lt;p&gt;&lt;h3&gt;Publication:&lt;/h3&gt;
 &lt;ol style=&#34;list-style: decimal outside; font-size: 1.2em;&#34;&gt;
-    &lt;li&gt;Hossein Siadati, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Payas Gupta, Nasir Memon, Markus Jakobsson, &lt;i&gt;Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication&lt;/i&gt;, &lt;a href=&#34;http://www.sciencedirect.com/science/journal/01674048&#34; target=&#34;_blank&#34;&gt;Computers &amp;#38; Security&lt;/a&gt;, Volume 65, March 2017, Pages 14–28
+    &lt;li&gt;Hossein Siadati, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Payas Gupta, Markus Jakobsson, Nasir Memon, &lt;i&gt;Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication&lt;/i&gt;, &lt;a href=&#34;https://doi.org/10.1007/978-3-030-43754-1_1&#34; target=&#34;_blank&#34;&gt;Security, Privacy and User Interaction&lt;/a&gt;, Springer, Cham, October 2020, Pages 5–22
     &lt;div class=&#34;pub-links&#34;&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.meMindYourSMSes.pdf&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/MindYourSMSes.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.mecite/mindyoursmses.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/mindyoursmses.bib&#34; target=&#34;_blank&#34;&gt;
+          Cite
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Hossein Siadati, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Payas Gupta, Nasir Memon, Markus Jakobsson, &lt;i&gt;Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication&lt;/i&gt;, &lt;a href=&#34;http://www.sciencedirect.com/science/journal/01674048&#34; target=&#34;_blank&#34;&gt;Computers &amp;#38; Security&lt;/a&gt;, Volume 65, March 2017, Pages 14–28
+    &lt;div class=&#34;pub-links&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/MindYourSMSes.pdf&#34; target=&#34;_blank&#34;&gt;
+          PDF
+        &lt;/a&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/mindyoursmses.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;/li&gt;
     &lt;li&gt;Hossein Siadati, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Nasir Memon, &lt;i&gt;Verification Code Forwarding Attack&lt;/i&gt;, &lt;a href=&#34;https://passwordscon.org/&#34; target=&#34;_blank&#34;&gt;PasswordsCon&lt;/a&gt;, University of Cambridge, December 2015
     &lt;div class=&#34;pub-links&#34;&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.meVCFA_PasswordsCon2015_ToanNguyen.pdf&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/VCFA_PasswordsCon2015_ToanNguyen.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.mecite/vcfa.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/vcfa.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
@@ -267,15 +286,6 @@
       <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://toannguyen.me/publication/vcfa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finger-drawn PIN Authentication on Touch Devices</title>
-      <link>http://toannguyen.me/publication/fingerdrawpin/</link>
-      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://toannguyen.me/publication/fingerdrawpin/</guid>
       <description></description>
     </item>
     

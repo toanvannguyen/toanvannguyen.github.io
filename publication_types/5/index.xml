@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Toan Nguyen</title>
+    <link>http://toannguyen.me/publication_types/5/</link>
+    <description>Recent content in 5 on Toan Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Toan Nguyen</copyright>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://toannguyen.me/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication</title>
+      <link>http://toannguyen.me/publication/mindyoursmses_bookchapter/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://toannguyen.me/publication/mindyoursmses_bookchapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
